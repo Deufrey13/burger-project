@@ -3,4 +3,6 @@ p {
     flex-direction: flex;
     justify-content: center;
     align-items:center;
+    background-color: #40407a
 }
+
